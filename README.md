@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🌟Bem vindo! Meus repositórios têm como objetivo principal documentar minha evolução nos estudos para me tornar um desenvolvedor de excelência!</p>
+<p align="left">🌟Bem vindo! Meus repositórios têm como objetivo principal documentar minha evolução nos estudos para me tornar uma desenvolvedora de excelência!</p>
 
 ###
 
